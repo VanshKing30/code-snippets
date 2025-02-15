@@ -21,7 +21,7 @@ const CreateSnippet = () => {
                 code
             }
         })
-        console.log(snippet);
+        
 
         redirect("/")
 
